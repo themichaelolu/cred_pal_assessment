@@ -15,10 +15,12 @@ After that, run 'flutter run'.
 The project will run successfully.
 
 
-Some improvisations were made as follows: 
+Some things to note: 
 + To ensure, responsiveness, the widgets might not be sized exactly as the design states on devices.
 
 + Some logos in merchants grid do not load properly on some devices due to rendering flutter SVG issues.
+
++ The Naira sign isn't properly rendered on some devices due to the font used.
 
 + There are duplicate items in the product list to simulate the list animation.
 
