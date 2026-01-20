@@ -59,8 +59,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/Credpal-Assets/CredPal-Pngs
-    - assets/images/Credpal-Assets/CredPal-Svgs
+    - assets/images/Credpal-Assets/CredPal-Pngs/
+    - assets/images/Credpal-Assets/CredPal-Svgs/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
@@ -76,18 +76,18 @@ flutter:
   fonts:
     - family: Avenir
       fonts:
-        - asset: assets/fonts/AvenitLTProBlack.otf
-        - asset: assets/fonts/AvenitLTProBlackOblique.otf
-        - asset: assets/fonts/AvenitLTProBook.otf
-        - asset: assets/fonts/AvenitLTProBookOblique.otf
-        - asset: assets/fonts/AvenitLTProHeavy.otf
-        - asset: assets/fonts/AvenitLTProHeavyOblique.otf
-        - asset: assets/fonts/AvenitLTProLight.otf
-        - asset: assets/fonts/AvenitLTProLightOblique.otf
-        - asset: assets/fonts/AvenitLTProMedium.otf
-        - asset: assets/fonts/AvenitLTProMediumOblique.otf
-        - asset: assets/fonts/AvenitLTProOblique.otf
-        - asset: assets/fonts/AvenitLTProBlack.otf
+        - asset: assets/fonts/AvenirLTProBlack.otf
+        - asset: assets/fonts/AvenirLTProBlackOblique.otf
+        - asset: assets/fonts/AvenirLTProBook.otf
+        - asset: assets/fonts/AvenirLTProBookOblique.otf
+        - asset: assets/fonts/AvenirLTProHeavy.otf
+        - asset: assets/fonts/AvenirLTProHeavyOblique.otf
+        - asset: assets/fonts/AvenirLTProLight.otf
+        - asset: assets/fonts/AvenirLTProLightOblique.otf
+        - asset: assets/fonts/AvenirLTProMedium.otf
+        - asset: assets/fonts/AvenirLTProMediumOblique.otf
+        - asset: assets/fonts/AvenirLTProOblique.otf
+        - asset: assets/fonts/AvenirLTProBlack.otf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
