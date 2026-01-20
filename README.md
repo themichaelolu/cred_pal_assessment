@@ -1,16 +1,28 @@
 # cred_pal_assessment
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an assessment to be reviewed.
 
-A few resources to get you started if this is your first Flutter project:
+Before you run, go to the terminal, run 'flutter pub get'.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This command fetches all the packages that are used in this project.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After that, run 'flutter run'.
+
+The project will run successfully.
+
+
+Some improvisations were made as follows: 
++ To ensure, responsiveness, the widgets might not be sized exactly as the design states on devices.
+
++ Some logos in merchants grid do not load properly on some devices due to rendering flutter SVG issues.
+
++ There are duplicate items in the product list to simulate the list animation.
+
+
+
+
+
